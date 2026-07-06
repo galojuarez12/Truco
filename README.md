@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TP Final – Programación 3: Truco & Chinchón (con interfaz gráfica moderna)
 
 Extiende el TP de Truco original para cumplir con la consigna final:
@@ -238,3 +239,6 @@ turno, IA, puntaje ni imagen del juego:
   carta al repartir la mano (sin fundido), y la breve espera antes de
   revelar la carta de la CPU.
 
+=======
+# Truco
+>>>>>>> 730026e7fba265f11fe1aef1ed0f955011ec9ceb
